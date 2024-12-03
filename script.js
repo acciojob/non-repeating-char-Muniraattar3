@@ -18,7 +18,4 @@ function firstNonRepeatedChar(str) {
     return null;
 }
 
-// Examples
-console.log(firstNonRepeatedChar('aabbcdd')); // Output: 'c'
-console.log(firstNonRepeatedChar('aabbcc'));  // Output: null
-console.log(firstNonRepeatedChar(''));        // Output: null
+
